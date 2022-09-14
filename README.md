@@ -4,7 +4,7 @@
   <img src="assets/logo.png" width="350" title="logo">
 </p>
 
-**Abstract:** This project includes parallel training pipeline with [Metaflow]() based on gender classification problem. The focus is on practicing the tools used, not the problem that model solves.
+**Abstract:** This project includes parallel training pipeline with [Metaflow](https://metaflow.org/) based on gender classification problem. The focus is on practicing the tools used, not the problem that model solves.
 
 # Installation
 ## Dataset
